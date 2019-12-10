@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/mcubik/goverreport/report"
+	"github.com/breml/goverreport/report"
 	"gopkg.in/yaml.v2"
 )
 

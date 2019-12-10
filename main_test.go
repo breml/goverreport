@@ -2,7 +2,7 @@ package main
 
 import (
 	"bytes"
-	"github.com/mcubik/goverreport/report"
+	"github.com/breml/goverreport/report"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"
